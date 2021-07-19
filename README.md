@@ -4,7 +4,7 @@
 
 Hi I and my partner <b>Shreya Mehta</b> has made this project during the April month for the college Submissions.
 
-<br>I got to have hands on experience on:
+<br>We got to have hands on experience on:
 
 <li>HTML
 
@@ -15,7 +15,7 @@ Hi I and my partner <b>Shreya Mehta</b> has made this project during the April m
 <li>JQuery
 
 
-   follow SHAPEAI on:
+   follow us on:
 
   <li><a href="#">LinkedIn</a>   
 
